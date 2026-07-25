@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 72px;
+}
+
+img,
+.recipes {
+    border-width: 3px;
+    margin: 32px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+ul {
+    font-size: 32px;
+    padding: 16px;
+}
